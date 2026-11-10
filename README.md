@@ -85,4 +85,4 @@ About 70% of our materials (coatings, polishes, chemicals) are imported and pric
 
 ## Live website
 
-After enabling GitHub Pages (Settings → Pages → Deploy from a branch, root folder), the site is available at https://stdrao19946-code.github.io/apex-detail-studio/.
+After enabling GitHub Pages (Settings → Pages → Deploy from a branch, root folder), the site is available at https://stdrao19946-code.github.io/apex_detailing/.
