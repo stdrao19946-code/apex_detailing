@@ -1,6 +1,6 @@
 # Apex Detailing
 
-A prototype for a course International Financial Management
+A prototype for the course International Financial Management
 
 **Group members:** Abdullah Bin Waris, Rao Daniyal Ahmed & Zaid
 
@@ -78,8 +78,8 @@ About 70% of our materials (coatings, polishes, chemicals) are imported and pric
 
 ## AI tools used
 
-- **Claude (Anthropic):** helped us choose the business idea, estimate costs, structure the financial model and generate the website code, the logo and illustrations, and the presentation.
-- The logo and illustrations are original graphics drawn in code for this project (not photographs). The colours are red, white and black.
+- **Claude (Anthropic):** helped us choose the business idea, estimate costs, structure the financial model and generate the website code, the logo and illustrations, the front-page photo edit, and the presentation.
+- The logo and service illustrations are original graphics drawn in code for this project. The colours are red, white and black.
 - The front-page car photo is a Hyundai Sonata image, recoloured black and edited for this student prototype. Credit: Hyundai.
 - We checked the calculations ourselves, and all prices and costs are estimates and not real quotes.
 
